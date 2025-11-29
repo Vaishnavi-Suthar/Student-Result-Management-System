@@ -1,0 +1,118 @@
+D:\.net\SRMS\SRMS\bin\SRMS.dll.config
+D:\.net\SRMS\SRMS\bin\SRMS.dll
+D:\.net\SRMS\SRMS\bin\SRMS.pdb
+D:\.net\SRMS\SRMS\bin\roslyn\csc.exe
+D:\.net\SRMS\SRMS\bin\roslyn\csc.exe.config
+D:\.net\SRMS\SRMS\bin\roslyn\csc.rsp
+D:\.net\SRMS\SRMS\bin\roslyn\csi.exe
+D:\.net\SRMS\SRMS\bin\roslyn\csi.exe.config
+D:\.net\SRMS\SRMS\bin\roslyn\csi.rsp
+D:\.net\SRMS\SRMS\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\.net\SRMS\SRMS\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\.net\SRMS\SRMS\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\.net\SRMS\SRMS\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\.net\SRMS\SRMS\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\.net\SRMS\SRMS\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\.net\SRMS\SRMS\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\.net\SRMS\SRMS\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\.net\SRMS\SRMS\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\.net\SRMS\SRMS\bin\roslyn\Microsoft.Managed.Core.targets
+D:\.net\SRMS\SRMS\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\.net\SRMS\SRMS\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\.net\SRMS\SRMS\bin\roslyn\System.AppContext.dll
+D:\.net\SRMS\SRMS\bin\roslyn\System.Collections.Immutable.dll
+D:\.net\SRMS\SRMS\bin\roslyn\System.Console.dll
+D:\.net\SRMS\SRMS\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\.net\SRMS\SRMS\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\.net\SRMS\SRMS\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\.net\SRMS\SRMS\bin\roslyn\System.Globalization.Calendars.dll
+D:\.net\SRMS\SRMS\bin\roslyn\System.IO.Compression.dll
+D:\.net\SRMS\SRMS\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\.net\SRMS\SRMS\bin\roslyn\System.IO.FileSystem.dll
+D:\.net\SRMS\SRMS\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\.net\SRMS\SRMS\bin\roslyn\System.Net.Http.dll
+D:\.net\SRMS\SRMS\bin\roslyn\System.Net.Sockets.dll
+D:\.net\SRMS\SRMS\bin\roslyn\System.Reflection.Metadata.dll
+D:\.net\SRMS\SRMS\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\.net\SRMS\SRMS\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\.net\SRMS\SRMS\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\.net\SRMS\SRMS\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\.net\SRMS\SRMS\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\.net\SRMS\SRMS\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\.net\SRMS\SRMS\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\.net\SRMS\SRMS\bin\roslyn\System.ValueTuple.dll
+D:\.net\SRMS\SRMS\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\.net\SRMS\SRMS\bin\roslyn\System.Xml.XmlDocument.dll
+D:\.net\SRMS\SRMS\bin\roslyn\System.Xml.XPath.dll
+D:\.net\SRMS\SRMS\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\.net\SRMS\SRMS\bin\roslyn\vbc.exe
+D:\.net\SRMS\SRMS\bin\roslyn\vbc.exe.config
+D:\.net\SRMS\SRMS\bin\roslyn\vbc.rsp
+D:\.net\SRMS\SRMS\bin\roslyn\VBCSCompiler.exe
+D:\.net\SRMS\SRMS\bin\roslyn\VBCSCompiler.exe.config
+D:\.net\SRMS\SRMS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\.net\SRMS\SRMS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\.net\SRMS\SRMS\obj\Debug\SRMS.csproj.AssemblyReference.cache
+D:\.net\SRMS\SRMS\obj\Debug\SRMS.csproj.CoreCompileInputs.cache
+D:\.net\SRMS\SRMS\obj\Debug\SRMS.csproj.Up2Date
+D:\.net\SRMS\SRMS\obj\Debug\SRMS.dll
+D:\.net\SRMS\SRMS\obj\Debug\SRMS.pdb
+D:\sem5 3d max\.net\SRMS\SRMS\bin\SRMS.dll.config
+D:\sem5 3d max\.net\SRMS\SRMS\bin\SRMS.dll
+D:\sem5 3d max\.net\SRMS\SRMS\bin\SRMS.pdb
+D:\sem5 3d max\.net\SRMS\SRMS\bin\roslyn\csc.exe
+D:\sem5 3d max\.net\SRMS\SRMS\bin\roslyn\csc.exe.config
+D:\sem5 3d max\.net\SRMS\SRMS\bin\roslyn\csc.rsp
+D:\sem5 3d max\.net\SRMS\SRMS\bin\roslyn\csi.exe
+D:\sem5 3d max\.net\SRMS\SRMS\bin\roslyn\csi.exe.config
+D:\sem5 3d max\.net\SRMS\SRMS\bin\roslyn\csi.rsp
+D:\sem5 3d max\.net\SRMS\SRMS\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\sem5 3d max\.net\SRMS\SRMS\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\sem5 3d max\.net\SRMS\SRMS\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\sem5 3d max\.net\SRMS\SRMS\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\sem5 3d max\.net\SRMS\SRMS\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\sem5 3d max\.net\SRMS\SRMS\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\sem5 3d max\.net\SRMS\SRMS\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\sem5 3d max\.net\SRMS\SRMS\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\sem5 3d max\.net\SRMS\SRMS\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\sem5 3d max\.net\SRMS\SRMS\bin\roslyn\Microsoft.Managed.Core.targets
+D:\sem5 3d max\.net\SRMS\SRMS\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\sem5 3d max\.net\SRMS\SRMS\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\sem5 3d max\.net\SRMS\SRMS\bin\roslyn\System.AppContext.dll
+D:\sem5 3d max\.net\SRMS\SRMS\bin\roslyn\System.Collections.Immutable.dll
+D:\sem5 3d max\.net\SRMS\SRMS\bin\roslyn\System.Console.dll
+D:\sem5 3d max\.net\SRMS\SRMS\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\sem5 3d max\.net\SRMS\SRMS\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\sem5 3d max\.net\SRMS\SRMS\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\sem5 3d max\.net\SRMS\SRMS\bin\roslyn\System.Globalization.Calendars.dll
+D:\sem5 3d max\.net\SRMS\SRMS\bin\roslyn\System.IO.Compression.dll
+D:\sem5 3d max\.net\SRMS\SRMS\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\sem5 3d max\.net\SRMS\SRMS\bin\roslyn\System.IO.FileSystem.dll
+D:\sem5 3d max\.net\SRMS\SRMS\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\sem5 3d max\.net\SRMS\SRMS\bin\roslyn\System.Net.Http.dll
+D:\sem5 3d max\.net\SRMS\SRMS\bin\roslyn\System.Net.Sockets.dll
+D:\sem5 3d max\.net\SRMS\SRMS\bin\roslyn\System.Reflection.Metadata.dll
+D:\sem5 3d max\.net\SRMS\SRMS\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\sem5 3d max\.net\SRMS\SRMS\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\sem5 3d max\.net\SRMS\SRMS\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\sem5 3d max\.net\SRMS\SRMS\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\sem5 3d max\.net\SRMS\SRMS\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\sem5 3d max\.net\SRMS\SRMS\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\sem5 3d max\.net\SRMS\SRMS\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\sem5 3d max\.net\SRMS\SRMS\bin\roslyn\System.ValueTuple.dll
+D:\sem5 3d max\.net\SRMS\SRMS\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\sem5 3d max\.net\SRMS\SRMS\bin\roslyn\System.Xml.XmlDocument.dll
+D:\sem5 3d max\.net\SRMS\SRMS\bin\roslyn\System.Xml.XPath.dll
+D:\sem5 3d max\.net\SRMS\SRMS\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\sem5 3d max\.net\SRMS\SRMS\bin\roslyn\vbc.exe
+D:\sem5 3d max\.net\SRMS\SRMS\bin\roslyn\vbc.exe.config
+D:\sem5 3d max\.net\SRMS\SRMS\bin\roslyn\vbc.rsp
+D:\sem5 3d max\.net\SRMS\SRMS\bin\roslyn\VBCSCompiler.exe
+D:\sem5 3d max\.net\SRMS\SRMS\bin\roslyn\VBCSCompiler.exe.config
+D:\sem5 3d max\.net\SRMS\SRMS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\sem5 3d max\.net\SRMS\SRMS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\sem5 3d max\.net\SRMS\SRMS\obj\Debug\SRMS.csproj.AssemblyReference.cache
+D:\sem5 3d max\.net\SRMS\SRMS\obj\Debug\SRMS.csproj.CoreCompileInputs.cache
+D:\sem5 3d max\.net\SRMS\SRMS\obj\Debug\SRMS.csproj.Up2Date
+D:\sem5 3d max\.net\SRMS\SRMS\obj\Debug\SRMS.dll
+D:\sem5 3d max\.net\SRMS\SRMS\obj\Debug\SRMS.pdb
