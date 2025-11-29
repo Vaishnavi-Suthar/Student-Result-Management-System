@@ -83,8 +83,7 @@ Teachers can add marks, admins can manage subjects & exams, and students can ins
 
 ---
 
-## 📸 **Screenshots** (Add Your Images)
-
+## 📸 **Screenshots** 
 <img width="1890" height="922" alt="s_home" src="https://github.com/user-attachments/assets/4e53bf7f-b00c-4890-bab3-7c5a27ecd57a" />
 <img width="1894" height="922" alt="s_alogin" src="https://github.com/user-attachments/assets/fded4198-04d5-47b5-8ae6-8d341a0fabc0" />
 <img width="1546" height="572" alt="s_dashboard" src="https://github.com/user-attachments/assets/8a5f8236-a885-4e5f-a079-437f56580c3d" />
